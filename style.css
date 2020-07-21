@@ -87,27 +87,27 @@ h1 i {
 }
 
 .slide:first-child {
-  background: url('slide1.jpg') no-repeat top;
+  background: url('./img/slide1.jpg') no-repeat top;
   background-size: cover;
 }
 
 .slide:nth-child(2) {
-  background: url('slide2.jpg') no-repeat top;
+  background: url('./img/slide2.jpg') no-repeat top;
   background-size: cover;
 }
 
 .slide:nth-child(3) {
-  background: url('slide3.jpg') no-repeat center;
+  background: url('./img/slide3.jpg') no-repeat center;
   background-size: cover;
 }
 
 .slide:nth-child(4) {
-  background: url('slide4.jpg') no-repeat center;
+  background: url('./img/slide4.jpg') no-repeat center;
   background-size: cover;
 }
 
 .slide:nth-child(5) {
-  background: url('slide5.jpg') no-repeat top;
+  background: url('./img/slide5.jpg') no-repeat top;
   background-size: cover;
 }
 
@@ -129,27 +129,27 @@ button:active {
 
 @media only screen and (max-width: 360px) {
   .slide:first-child {
-    background: url('slide1.jpg') no-repeat center;
+    background: url('./img/slide1.jpg') no-repeat center;
     background-size: contain;
   }
   
   .slide:nth-child(2) {
-    background: url('slide2.jpg') no-repeat center;
+    background: url('./img/slide2.jpg') no-repeat center;
     background-size: contain;
   }
   
   .slide:nth-child(3) {
-    background: url('slide3.jpg') no-repeat center;
+    background: url('./img/slide3.jpg') no-repeat center;
     background-size: contain;
   }
   
   .slide:nth-child(4) {
-    background: url('slide4.jpg') no-repeat center;
+    background: url('./img/slide4.jpg') no-repeat center;
     background-size: contain;
   }
   
   .slide:nth-child(5) {
-    background: url('slide5.jpg') no-repeat center;
+    background: url('./img/slide5.jpg') no-repeat center;
     background-size: contain;
   }
   
